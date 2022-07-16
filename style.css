@@ -128,3 +128,30 @@ figcaption {
     font-color: #E5E7EB;
 }
 
+/* Quote Section */
+
+.quote-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+    background-color: #E5E7EB;
+}
+
+blockquote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 200;
+}
+
+.quote-box p {
+    font-size: 24px;
+    color: #1F2937;
+    font-weight: bold;
+    margin-left: auto;
+}
+
+/* Registration Container */
+
+
