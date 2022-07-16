@@ -102,7 +102,7 @@ main {
 
 .card-container h2{
     font-size: 36px;
-    font-width: 900;
+    font-weight: 900;
     margin: 20px;
     color: #1F2937;
 }
@@ -125,7 +125,7 @@ main {
 figcaption {
     padding: 6px;
     font-size: 16px;
-    font-color: #E5E7EB;
+    color: #E5E7EB;
 }
 
 /* Quote Section */
