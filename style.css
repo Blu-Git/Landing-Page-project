@@ -16,7 +16,7 @@ nav {
     align-items: center;
     justify-content: space-between;
     background-color: #1F2937;
-    padding: 10px 60px 10px 60px;
+    padding: 10px 60px;
     position: -webkit-sticky;
     position: sticky;
     top: 0;
@@ -154,4 +154,33 @@ blockquote {
 
 /* Registration Container */
 
+.register-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+}
+
+.register-box {
+    display: flex;
+    color: #F9FAF8;
+    padding: 30px 120px;
+    gap: 64px;
+    background-color: #3882F6;
+    border-radius: 10px
+}
+
+.register-box button {
+    align-self: center;
+    min-width: 80px;
+    max-height: 40px;
+    padding: 4px 8px;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    border-radius: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 12px;
+}
 
